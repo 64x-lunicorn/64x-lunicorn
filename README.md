@@ -37,7 +37,7 @@ Not a chatbot in a tab. An assistant with memory, tools and guardrails, wired in
 
 ## Projects
 
-| | | |
+| Project | What it does | Stack |
 | :-- | :-- | :-- |
 | **[LogSquirl](https://github.com/64x-lunicorn/LogSquirl)** | Fast log explorer for Windows, macOS and Linux. Multi-gigabyte files, live tailing, regex filters, charts, plugin SDK with [Serial](https://github.com/64x-lunicorn/LogSquirl-Serial), [Logcat](https://github.com/64x-lunicorn/LogSquirl-Logcat) and [tcpdump](https://github.com/64x-lunicorn/LogSquirl-tcpdump) plugins. | `C++17` `Qt6` |
 | **[vigil](https://github.com/64x-lunicorn/vigil)** | Self-hosted MCP server that turns a Markdown vault into long-term memory for AI assistants. | `Elixir` `MCP` |
