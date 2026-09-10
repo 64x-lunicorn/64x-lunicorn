@@ -7,6 +7,8 @@
 I build the tools I wish existed: fast native apps in C++/Qt and Swift, resilient backends in Elixir,
 and the plumbing that lets AI assistants actually work with real systems.
 
+Local-first. Native and fast. Boringly reliable.
+
 <br>
 
 ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -22,18 +24,18 @@ and the plumbing that lets AI assistants actually work with real systems.
 
 <br>
 
-## 🤖 AI, the way I use it
+## AI, the way I use it
 
 Not a chatbot in a tab. An assistant with memory, tools and guardrails, wired into the things I actually work on.
 
 - **Memory I own** — [vigil](https://github.com/64x-lunicorn/vigil) is my self-hosted MCP server: a plain Markdown vault, Git-backed, chunk-level retrieval, OAuth-scoped access. Remove the server and the notes are still mine.
-- **Agentic by default** — Claude Code drives most of my day-to-day development: spec first, tests first, small reviewed PRs. The interesting work is designing the workflow, not typing the code.
+- **Agentic by default** — Claude Code is part of my daily development: spec first, tests first, small reviewed PRs.
 - **Tools, not prompts** — MCP servers for my homelab (Proxmox, UniFi, TrueNAS, Home Assistant) so the assistant can inspect and act on real infrastructure, with explicit confirmation for anything destructive.
 - **Skills as code** — reusable, versioned instructions that make an assistant behave consistently across sessions and projects.
 
 <br>
 
-## 🛠️ Projects
+## Projects
 
 | | | |
 | :-- | :-- | :-- |
@@ -42,18 +44,3 @@ Not a chatbot in a tab. An assistant with memory, tools and guardrails, wired in
 | **[OpenWorktimeTracker](https://github.com/64x-lunicorn/OpenWorktimeTracker)** | Automatic work-time tracking in the macOS menu bar. Local-first, no account, CSV export. | `Swift` `SwiftUI` |
 | **[LinkDeck](https://github.com/64x-lunicorn/LinkDeck)** | Chrome new-tab dashboard driven by one local YAML file, zero runtime dependencies. | `JavaScript` `Manifest V3` |
 
-<br>
-
-## 🧭 What I care about
-
-**Local-first.** Your data on your machine, in formats you can read without the tool.
-**Native and fast.** Big inputs, small latency, no Electron where a real app will do.
-**Boring reliability.** Explicit errors over silent success, tests over hope, Git history over memory.
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=64x-lunicorn&layout=compact&hide_border=true&theme=transparent&hide=html,css" alt="Most used languages" height="150">
-
-</div>
